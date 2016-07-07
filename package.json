@@ -1,0 +1,24 @@
+{
+  "name": "batcher",
+  "version": "0.0.1",
+  "description": "Re-usable pattern to allow batching up data into a Queue and executing a custom function later.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Newstex/batcher.git"
+  },
+  "keywords": [
+    "queue",
+    "batch",
+    "node"
+  ],
+  "author": "Chris Moyer <cmoyer@aci.info>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Newstex/batcher/issues"
+  },
+  "homepage": "https://github.com/Newstex/batcher#readme"
+}
